@@ -1,0 +1,10 @@
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+openpyxl
+jupyter
+joblib
